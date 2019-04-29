@@ -1,11 +1,11 @@
-package ch1.strategyPattern.actionGame;
-
 import ch1.strategyPattern.actionGame.character.Character;
 import ch1.strategyPattern.actionGame.character.King;
+import org.junit.Test;
 
-public class Arena {
+public class Ch1Arena {
 
-    public static void main(String[] args) {
+    @Test
+    public void main() {
         Character character = new King();
         character.fight();
     }
