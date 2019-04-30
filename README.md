@@ -2,7 +2,7 @@
 
 本專案為練習深入淺出設計模式 (Head First Design Pattern) 所提出的設計模式
 
-希望能以第一章提到的 action game 為主題將書中提到的設計模式都盡量練習一遍
+希望能以第一章提到的 adventure game 為主題將書中提到的設計模式都盡量練習一遍
 
 - 主要模式
     - Strategy Pattern 策略模式
